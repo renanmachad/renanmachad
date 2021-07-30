@@ -23,6 +23,6 @@ in love with: Python 🐍 bots in general 🤖 Front-end, and automations
 <div>
   <a href="https://www.linkedin.com/in/renan-machado-pinho-2509251a5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/> </a>
 </div>
-![snake animation] (https://github.com/renanmachad/renanmachad/blob/output/github-contribution-grid-snake.svg)
+
 
 
