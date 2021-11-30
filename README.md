@@ -1,7 +1,7 @@
 ##Olá / Hi :)
 
 Name: Renan
-in love with: Python 🐍 bots in general 🤖 Front-end, and automations
+in love with: Python 🐍 bots in general 🤖 Front-end, Back-end (i like this so much), and automations
 
 
 <div>
