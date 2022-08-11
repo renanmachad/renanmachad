@@ -7,7 +7,7 @@ And i need add C++ and more Java and other languages(Like GO, Rust and etc) in m
 
 Nome:Renan
 
-Em um amor com: Python 🐍 bots em geral 🤖, Front-end, Back-end( eu gosto tanto), and automations.
+Em um amor com: Python 🐍 bots em geral 🤖, Front-end, Back-end( eu gosto tanto), e automações.
 <div>  
 </div>
 
