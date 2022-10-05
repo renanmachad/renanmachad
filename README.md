@@ -1,13 +1,14 @@
 ##Olá / Hi :)
 
 Name: Renan
-Who contact me?
-Email: renanmachadopinho@gmail.com
-<a href="https://www.linkedin.com/in/renan-machado-pinho-2509251a5/">Linkedin</a>
-I am actually learning Golang and Rust.
-I work actually with Nextjs( React), and NodeJS/Express, NestJS.
-All technologies that i work i use Typescript.
-
+<div>
+    Who contact me?
+    Email: renanmachadopinho@gmail.com
+    <a href="https://www.linkedin.com/in/renan-machado-pinho-2509251a5/">Linkedin</a>
+    I am actually learning Golang and Rust.
+    I work actually with Nextjs( React), and NodeJS/Express, NestJS.
+    All technologies that i work i use Typescript.
+</div>
 <div>  
 </div>
 
