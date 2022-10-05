@@ -2,12 +2,12 @@
 
 Name: Renan
 <div style="display:grid">
-    Who contact me?
-    Email: renanmachadopinho@gmail.com
+   <h1> Who contact me?</h1>
+    <p>Email: renanmachadopinho@gmail.com</p>
     <a href="https://www.linkedin.com/in/renan-machado-pinho-2509251a5/">Linkedin</a>
-    I am actually learning Golang and Rust.
-    I work actually with Nextjs( React), and NodeJS/Express, NestJS.
-    All technologies that i work i use Typescript.
+   <p> I am actually learning Golang and Rust.</p>
+    <p> I work actually with Nextjs( React), and NodeJS/Express, NestJS.</p>
+   <p> All technologies that i work i use Typescript.</p>
 </div>
 <div>  
 </div>
