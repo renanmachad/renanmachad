@@ -1,7 +1,7 @@
 ##Olá / Hi :)
 
 Name: Renan
-<div>
+<div style="display:grid">
     Who contact me?
     Email: renanmachadopinho@gmail.com
     <a href="https://www.linkedin.com/in/renan-machado-pinho-2509251a5/">Linkedin</a>
