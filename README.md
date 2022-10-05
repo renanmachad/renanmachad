@@ -1,9 +1,12 @@
 ##Olá / Hi :)
 
 Name: Renan
-in love with: Python 🐍 bots in general 🤖 Front-end, Back-end (i like this so much), and automations.
-
-And i need add C++ and more Java and other languages(Like GO, Rust and etc) in my repository.    
+Who contact me?
+Email: renanmachadopinho@gmail.com
+<a href="https://www.linkedin.com/in/renan-machado-pinho-2509251a5/">Linkedin</a>
+I am actually learning Golang and Rust.
+I work actually with Nextjs( React), and NodeJS/Express, NestJS.
+All technologies that i work i use Typescript.
 
 <div>  
 </div>
