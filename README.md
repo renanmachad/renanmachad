@@ -7,7 +7,7 @@ Name: Renan
     <a href="https://www.linkedin.com/in/renan-machado-pinho-2509251a5/">Linkedin</a>
    <p> I am actually learning Golang and Rust.</p>
     <p> I work actually with Nextjs( React), and NodeJS/Express, NestJS.</p>
-   <p> All technologies that i work i use Typescript.</p>
+   <p> All frameworks( React,Express,NestJS) that i work i use Typescript.</p>
 </div>
 <div>  
 </div>
