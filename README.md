@@ -5,7 +5,7 @@ Name: Renan
    <h1> Who contact me?</h1>
     <p>Email: renanmachadopinho@gmail.com</p>
     <a href="https://www.linkedin.com/in/renan-machado-pinho-2509251a5/">Linkedin</a>
-   <p> I am actually learning Golang and Rust.</p>
+   <p> I am actually learning Quarkus and Flutter.</p>
     <p> I work actually with Nextjs( React), and NodeJS/Express, NestJS.</p>
    <p> All frameworks( React,Express,NestJS) that i work i use Typescript.</p>
 </div>
