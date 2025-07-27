@@ -5,7 +5,7 @@ Name: Renan
    <h1> Who contact me?</h1>
     <p>Email: renanmachadopinho@gmail.com</p>
     <a href="https://www.linkedin.com/in/renan-machado-pinho-2509251a5/">Linkedin</a>
-    <p> I work actually with Java
+    <p> I work actually with Java, GOlang and all Node js ecosystem
 <div>  
 </div>
 
