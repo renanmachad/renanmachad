@@ -5,6 +5,7 @@ Senior Software Engineer based in Brazil, working remotely with global teams. I 
 - 🔭 Currently: **Software Engineer on a parts pricing system for a global dealer network (contract, remote)**
 - 🛠️ Core: **Java · Spring Boot · Kafka · RabbitMQ · AWS · Docker · Kubernetes · Terraform**
 - 🚀 Side projects: **[Linkedify](https://linkedify.com.br)** (LinkedIn content SaaS) and **[Nigma AI](https://nigmaai.com)** (AI study platform)
+- 🌐 Portfolio: **[renanmachad.me](https://renanmachad.me)**
 - 📥 Reach me: [renanmachadopinho@gmail.com](mailto:renanmachadopinho@gmail.com) · [LinkedIn](https://www.linkedin.com/in/renan-machado-pinho-2509251a5/) · [GitHub](https://github.com/renanmachad)
 
 ### Highlights
