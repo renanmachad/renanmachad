@@ -1,0 +1,13 @@
+# Settings: https://github.com/pedrocatalao/github-cool-readme#settings
+user: renanmachad
+show: [summary, languages, contributions, weekly, streaks, about, repos]
+count:
+  private: true
+  orgs: true
+look:
+  style: oled
+  color: github
+  background: 0d1117
+cards:
+  about:
+    headline: "Hi, I'm *renan_machado*"
