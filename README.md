@@ -27,3 +27,43 @@ Senior Software Engineer based in Brazil, working remotely with global teams. I 
   <img height="160" alt="GitHub stats for renanmachad" src="https://github-readme-stats.vercel.app/api?username=renanmachad&show_icons=true&hide_border=true&theme=transparent" />
   <img height="160" alt="Top languages used by renanmachad" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanmachad&layout=compact&langs_count=8&hide_border=true&theme=transparent" />
 </details>
+
+<!-- cool-readme:start -->
+<!-- Cards by github-cool-readme: https://github.com/pedrocatalao/github-cool-readme -->
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/renanmachad/renanmachad/cards/summary-dark.svg">
+  <img src="https://raw.githubusercontent.com/renanmachad/renanmachad/cards/summary-light.svg" width="400" alt="GitHub stats">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/renanmachad/renanmachad/cards/languages-dark.svg">
+  <img src="https://raw.githubusercontent.com/renanmachad/renanmachad/cards/languages-light.svg" width="400" alt="Most used languages">
+</picture>
+</p>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/renanmachad/renanmachad/cards/contributions-dark.svg">
+  <img src="https://raw.githubusercontent.com/renanmachad/renanmachad/cards/contributions-light.svg" width="400" alt="Notable contributions">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/renanmachad/renanmachad/cards/weekly-dark.svg">
+  <img src="https://raw.githubusercontent.com/renanmachad/renanmachad/cards/weekly-light.svg" width="400" alt="Weekly rhythm">
+</picture>
+</p>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/renanmachad/renanmachad/cards/streaks-dark.svg">
+  <img src="https://raw.githubusercontent.com/renanmachad/renanmachad/cards/streaks-light.svg" width="400" alt="Streaks">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/renanmachad/renanmachad/cards/about-dark.svg">
+  <img src="https://raw.githubusercontent.com/renanmachad/renanmachad/cards/about-light.svg" width="400" alt="About">
+</picture>
+</p>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/renanmachad/renanmachad/cards/repos-dark.svg">
+  <img src="https://raw.githubusercontent.com/renanmachad/renanmachad/cards/repos-light.svg" width="400" alt="Top repos">
+</picture>
+</p>
+<!-- cool-readme:end -->
