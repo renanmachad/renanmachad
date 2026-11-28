@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="219" viewBox="0 0 450 219" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">About</title>
+<desc id="desc">Hi, I&#39;m renan_machado</desc>
+<style>
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<rect x="0.5" y="0.5" width="449" height="218" rx="8" fill="#0d1117"/>
+
+<defs><clipPath id="bregion"><rect x="0" y="45" width="450" height="168"/></clipPath></defs>
+<path d="M15 9h9v3h-9zM30 9h12v3h-12zM51 9h9v3h-9zM66 9h3v18h-3zM78 9h3v18h-3zM84 9h15v3h-15zM12 12h3v6h-3zM24 12h3v6h-3zM30 12h3v6h-3zM42 12h3v6h-3zM48 12h3v15h-3zM60 12h3v15h-3zM90 12h3v18h-3zM12 18h15v3h-15zM30 18h12v3h-12zM12 21h3v9h-3zM24 21h3v9h-3zM30 21h3v6h-3zM42 21h3v6h-3zM30 27h12v3h-12zM51 27h9v3h-9zM69 27h9v3h-9z" fill="#f0f6fc" fill-opacity="0.6"/>
+<g clip-path="url(#bregion)">
+<g><path d="M12 111h3v9h-3zM24 111h3v9h-3zM33 111h9v3h-9zM72 111h9v3h-9zM87 111h3v6h-3zM93 111h3v3h-3zM105 111h3v3h-3zM36 114h3v15h-3zM75 114h3v15h-3zM93 114h6v3h-6zM102 114h6v3h-6zM93 117h3v15h-3zM99 117h3v6h-3zM105 117h3v15h-3zM12 120h15v3h-15zM12 123h3v9h-3zM24 123h3v9h-3zM51 123h3v6h-3zM33 129h9v3h-9zM48 129h3v3h-3zM72 129h9v3h-9z" fill="#f0f6fc"/><path d="M123 111h12v3h-12zM141 111h15v3h-15zM159 111h3v6h-3zM171 111h3v12h-3zM180 111h9v3h-9zM195 111h3v6h-3zM207 111h3v12h-3zM231 111h3v3h-3zM243 111h3v3h-3zM252 111h9v3h-9zM270 111h9v3h-9zM285 111h3v9h-3zM297 111h3v9h-3zM306 111h9v3h-9zM321 111h9v3h-9zM342 111h9v3h-9zM123 114h3v6h-3zM135 114h3v6h-3zM141 114h3v6h-3zM177 114h3v6h-3zM189 114h3v6h-3zM231 114h6v3h-6zM240 114h6v3h-6zM249 114h3v6h-3zM261 114h3v6h-3zM267 114h3v15h-3zM279 114h3v3h-3zM303 114h3v6h-3zM315 114h3v6h-3zM321 114h3v15h-3zM330 114h3v3h-3zM339 114h3v15h-3zM351 114h3v15h-3zM159 117h6v3h-6zM195 117h6v3h-6zM231 117h3v15h-3zM237 117h3v6h-3zM243 117h3v15h-3zM333 117h3v9h-3zM123 120h12v3h-12zM141 120h12v3h-12zM159 120h3v12h-3zM165 120h3v3h-3zM177 120h15v3h-15zM195 120h3v12h-3zM201 120h3v3h-3zM249 120h15v3h-15zM285 120h15v3h-15zM303 120h15v3h-15zM123 123h3v9h-3zM129 123h3v3h-3zM141 123h3v6h-3zM168 123h6v3h-6zM177 123h3v9h-3zM189 123h3v9h-3zM204 123h6v3h-6zM249 123h3v9h-3zM261 123h3v9h-3zM285 123h3v9h-3zM297 123h3v9h-3zM303 123h3v9h-3zM315 123h3v9h-3zM132 126h3v3h-3zM171 126h3v6h-3zM207 126h3v6h-3zM279 126h3v3h-3zM330 126h3v3h-3zM135 129h3v3h-3zM141 129h15v3h-15zM213 129h15v3h-15zM270 129h9v3h-9zM321 129h9v3h-9zM342 129h9v3h-9z" fill="#4493f8"/></g>
+
+</g>
+</svg>
